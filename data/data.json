@@ -1,0 +1,155 @@
+{
+  "players": [
+    {
+      "name": "Michael Jordan",
+      "position": {
+        "long": ["Shooting Guard"],
+        "short": ["SG"]
+      },
+      "date_of_birth": "1963-02-17",
+      "draft_year": 1984,
+      "nationality": "American",
+      "teams_played": ["Chicago Bulls", "Washington Wizards"],
+      "number": [23, 45],
+      "mvp": [1988, 1991, 1992, 1996, 1998],
+      "championship": [1991, 1992, 1993, 1996, 1997, 1998],
+      "all_star_appearances": 14,
+      "college": "North Carolina",
+      "highschool": "Emsley A. Laney",
+      "scoring_rank": 5,
+      "rookie_of_the_year": true,
+      "career_highs": {
+        "points": 69,
+        "rebounds": 18,
+        "assists": 17,
+        "steals": 10,
+        "blocks": 6
+      },
+      "years_played": 14,
+      "retired": true,
+      "hall_of_fame_year": 2009
+    },
+    {
+      "name": "LeBron James",
+      "position": {
+        "long": ["Small Forward", "Power Forward"],
+        "short": ["SF", "PF"]
+      },
+      "date_of_birth": "1984-12-30",
+      "draft_year": 2003,
+      "nationality": "American",
+      "teams_played": [
+        "Cleveland Cavaliers",
+        "Miami Heat",
+        "Los Angeles Lakers"
+      ],
+      "number": [23, 6],
+      "mvp": [2009, 2010, 2012, 2013],
+      "championship": [2012, 2013, 2016, 2020],
+      "all_star_appearances": 18,
+      "college": "",
+      "highschool": "St.Vincent - St.Mary",
+      "scoring_rank": 2,
+      "rookie_of_the_year": true,
+      "career_highs": {
+        "points": 61,
+        "rebounds": 19,
+        "assists": 19,
+        "steals": 7,
+        "blocks": 5
+      },
+      "years_played": 19,
+      "retired": false,
+      "hall_of_fame_year": null
+    },
+    {
+      "name": "Kareem Abdul-Jabbar",
+      "position": {
+        "long": ["Center"],
+        "short": ["C"]
+      },
+      "date_of_birth": "1947-04-16",
+      "draft_year": 1969,
+      "nationality": "American",
+      "teams_played": ["Milwaukee Bucks", "Los Angeles Lakers"],
+      "number": [33],
+      "mvp": [1971, 1972, 1974, 1976, 1977, 1980],
+      "championship": [1971, 1980, 1982, 1985, 1987, 1988],
+      "all_star_appearances": 19,
+      "college": "UCLA",
+      "highschool": "Power Memorial",
+      "scoring_rank": 1,
+      "rookie_of_the_year": true,
+      "career_highs": {
+        "points": 55,
+        "rebounds": 19,
+        "assists": 10,
+        "steals": 4,
+        "blocks": 7
+      },
+      "years_played": 20,
+      "retired": true,
+      "hall_of_fame_year": 1990
+    },
+    {
+      "name": "Bill Russell",
+      "position": {
+        "long": ["Center"],
+        "short": ["C"]
+      },
+      "date_of_birth": "1934-02-12",
+      "draft_year": 1956,
+      "nationality": "American",
+      "teams_played": ["Boston Celtics"],
+      "number": [6],
+      "mvp": [1958, 1961, 1962, 1963, 1965],
+      "championship": [
+        1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969
+      ],
+      "all_star_appearances": 12,
+      "college": "San Francisco",
+      "highschool": "McClymonds",
+      "scoring_rank": 165,
+      "rookie_of_the_year": true,
+      "career_highs": {
+        "points": 55,
+        "rebounds": 19,
+        "assists": 10,
+        "steals": 4,
+        "blocks": 7
+      },
+      "years_played": 13,
+      "retired": true,
+      "hall_of_fame_year": 1990
+    },
+    {
+      "name": "Magic Johnson",
+      "position": {
+        "long": ["Point Guard", "Shooting Guard"],
+        "short": ["PG", "SG"]
+      },
+      "date_of_birth": "1959-08-14",
+      "draft_year": 1979,
+      "nationality": "American",
+      "teams_played": ["Los Angeles Lakers"],
+      "number": [32],
+      "mvp": [1987, 1989, 1990],
+      "championship": [1980, 1982, 1985, 1987, 1988],
+      "all_star_appearances": 12,
+      "college": "Michigan State",
+      "highschool": "Everett",
+      "scoring_rank": 84,
+      "rookie_of_the_year": false,
+      "career_highs": {
+        "points": 46,
+        "rebounds": 17,
+        "assists": 24,
+        "steals": 7,
+        "blocks": 2
+      },
+      "years_played": 13,
+      "retired": true,
+      "hall_of_fame_year": 2002
+    }
+  ]
+}
