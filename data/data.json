@@ -27,7 +27,7 @@
     },
     "years_played": 14,
     "retired": true,
-    "hall_of_fame_year": 2009
+    "is_hall_of_famer": true
   },
   {
     "ranked_at": 2,
@@ -44,7 +44,6 @@
     "mvp": [2009, 2010, 2012, 2013],
     "championship": [2012, 2013, 2016, 2020],
     "all_star_appearances": 18,
-    "college": "",
     "highschool": "St.Vincent - St.Mary",
     "scoring_rank": 2,
     "rookie_of_the_year": true,
@@ -57,7 +56,7 @@
     },
     "years_played": 19,
     "retired": false,
-    "hall_of_fame_year": null
+    "is_hall_of_famer": false
   },
   {
     "ranked_at": 3,
@@ -87,7 +86,7 @@
     },
     "years_played": 20,
     "retired": true,
-    "hall_of_fame_year": 1990
+    "is_hall_of_famer": true
   },
   {
     "ranked_at": 4,
@@ -119,7 +118,7 @@
     },
     "years_played": 13,
     "retired": true,
-    "hall_of_fame_year": 1990
+    "is_hall_of_famer": true
   },
   {
     "ranked_at": 5,
@@ -149,6 +148,323 @@
     },
     "years_played": 13,
     "retired": true,
-    "hall_of_fame_year": 2002
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 6,
+    "name": "Wilt Chamberlain",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1936-08-21",
+    "draft_year": 1959,
+    "nationality": "American",
+    "teams_played": [
+      "Philadelphia Warriors",
+      "San Francisco Warriors",
+      "Philadelphia 76ers",
+      "Los Angeles Lakers"
+    ],
+    "number": [13],
+    "mvp": [1960, 1966, 1967, 1968],
+    "championship": [1967, 1972],
+    "all_star_appearances": 13,
+    "college": "Kansas",
+    "highschool": "Overbrook",
+    "scoring_rank": 7,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 100,
+      "rebounds": 55,
+      "assists": 7,
+      "steals": 0,
+      "blocks": 0
+    },
+    "years_played": 15,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 7,
+    "name": "Larry Bird",
+    "position": {
+      "long": ["Small Forward", "Power Forward"],
+      "short": ["SF", "PF"]
+    },
+    "date_of_birth": "1956-12-07",
+    "draft_year": 1978,
+    "nationality": "American",
+    "teams_played": ["Boston Celtics"],
+    "number": [33],
+    "mvp": [1984, 1985, 1986],
+    "championship": [1981, 1984, 1986],
+    "all_star_appearances": 12,
+    "college": "Indiana State",
+    "highschool": "Springs Valley",
+    "scoring_rank": 39,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 60,
+      "rebounds": 20,
+      "assists": 17,
+      "steals": 8,
+      "blocks": 5
+    },
+    "years_played": 13,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 8,
+    "name": "Shaquille O'Neal",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1972-03-06",
+    "draft_year": 1992,
+    "nationality": "American",
+    "teams_played": [
+      "Orlando Magic",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Pheonix Suns",
+      "Cleveland Cavaliers",
+      "Boston Celtics"
+    ],
+    "number": [32, 33, 34, 36],
+    "mvp": [2000],
+    "championship": [2000, 2001, 2002, 2006],
+    "all_star_appearances": 15,
+    "college": "LCU",
+    "highschool": "Fulda American",
+    "scoring_rank": 8,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 61,
+      "rebounds": 28,
+      "assists": 10,
+      "steals": 5,
+      "blocks": 15
+    },
+    "years_played": 19,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 9,
+    "name": "Tim Duncan",
+    "position": {
+      "long": ["Power Forward", "Center"],
+      "short": ["PF", "C"]
+    },
+    "date_of_birth": "1976-04-25",
+    "draft_year": 1997,
+    "nationality": "American",
+    "teams_played": ["San Antonio Spurs"],
+    "number": [21],
+    "mvp": [2002, 2003],
+    "championship": [1999, 2003, 2005, 2007, 2014],
+    "all_star_appearances": 15,
+    "college": "Wake Forest",
+    "highschool": "St.Dunstan's Episcopal",
+    "scoring_rank": 16,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 53,
+      "rebounds": 27,
+      "assists": 11,
+      "steals": 8,
+      "blocks": 9
+    },
+    "years_played": 19,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 10,
+    "name": "Kobe Bryant",
+    "position": {
+      "long": ["Shooting Guard", "Small Forward"],
+      "short": ["SG", "SF"]
+    },
+    "date_of_birth": "1978-08-23",
+    "draft_year": 1992,
+    "nationality": "American",
+    "teams_played": ["Los Angeles Lakers"],
+    "number": [8, 24],
+    "mvp": [2008],
+    "championship": [2000, 2001, 2002, 2009, 2010],
+    "all_star_appearances": 18,
+    "highschool": "Lower Merion",
+    "scoring_rank": 4,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 81,
+      "rebounds": 16,
+      "assists": 17,
+      "steals": 7,
+      "blocks": 5
+    },
+    "years_played": 20,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 11,
+    "name": "Hakeem Olajuwon",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1963-01-21",
+    "draft_year": 1984,
+    "nationality": "Nigerian",
+    "teams_played": ["Houston Rockets", "Toronto Raptors"],
+    "number": [34],
+    "mvp": [1984],
+    "championship": [1994, 1995],
+    "all_star_appearances": 12,
+    "college": "Houston",
+    "highschool": "Muslim Teachers College",
+    "scoring_rank": 13,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 52,
+      "rebounds": 25,
+      "assists": 12,
+      "steals": 8,
+      "blocks": 12
+    },
+    "years_played": 18,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 12,
+    "name": "Oscar Robertson",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1938-11-24",
+    "draft_year": 1960,
+    "nationality": "American",
+    "teams_played": ["Cincinnati Royals", "Milwaukee Bucks"],
+    "number": [14, 1],
+    "mvp": [1964],
+    "championship": [1971],
+    "all_star_appearances": 12,
+    "college": "Cincinnati",
+    "highschool": "Crispus Attucks",
+    "scoring_rank": 14,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 56,
+      "rebounds": 22,
+      "assists": 22,
+      "steals": 1,
+      "blocks": 5
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 13,
+    "name": "Kevin Durant",
+    "position": {
+      "long": ["Small Forward", "Power Forward"],
+      "short": ["SF", "PF"]
+    },
+    "date_of_birth": "1988-09-29",
+    "draft_year": 2007,
+    "nationality": "American",
+    "teams_played": [
+      "Seattle Supersonics",
+      "Oklahoma City Thunder",
+      "Golden State Warriors",
+      "Brooklyn Nets",
+      "Pheonix Suns"
+    ],
+    "number": [35, 7],
+    "mvp": [2014],
+    "championship": [2017, 2018],
+    "all_star_appearances": 13,
+    "college": "Texas",
+    "highschool": "Montrose Christian School",
+    "scoring_rank": 10,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 55,
+      "rebounds": 18,
+      "assists": 16,
+      "steals": 5,
+      "blocks": 7
+    },
+    "years_played": 15,
+    "retired": false,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 14,
+    "name": "Jerry West",
+    "position": {
+      "long": ["Point Guard", "Shooting Guard"],
+      "short": ["PG", "SG"]
+    },
+    "date_of_birth": "1938-05-28",
+    "draft_year": 1960,
+    "nationality": "American",
+    "teams_played": ["Los Angeles Lakers"],
+    "number": [44],
+    "mvp": [2000],
+    "championship": [1972],
+    "all_star_appearances": 14,
+    "college": "West Virginia",
+    "highschool": "East Bank",
+    "scoring_rank": 23,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 63,
+      "rebounds": 24,
+      "assists": 23,
+      "steals": 10,
+      "blocks": 1
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 15,
+    "name": "Stephen Curry",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1988-03-14",
+    "draft_year": 2009,
+    "nationality": "American",
+    "teams_played": ["Golden State Warriors"],
+    "number": [30],
+    "mvp": [2015, 2016],
+    "championship": [2015, 2017, 2018, 2022],
+    "all_star_appearances": 9,
+    "college": "Davidson",
+    "highschool": "Charlotte Christian",
+    "scoring_rank": 34,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 62,
+      "rebounds": 14,
+      "assists": 16,
+      "steals": 7,
+      "blocks": 2
+    },
+    "years_played": 13,
+    "retired": false,
+    "is_hall_of_famer": false
   }
 ]
