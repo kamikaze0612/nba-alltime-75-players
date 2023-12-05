@@ -9,6 +9,10 @@ router
   .get(playersController.getAllPlayers)
   .post(playersController.createPlayer);
 
-router.route("/:id").get(playersController.getPlayer);
+router
+  .route("/:id")
+  .get(playersController.getPlayer)
+  .delete(playersController.deletePlayer)
+  .patch(playersController.updatePlayer);
 
 module.exports = router;
