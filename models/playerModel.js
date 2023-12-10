@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const playerSchema = new mongoose.Schema({
   ranked_at: {
-    type: String,
+    type: Number,
     required: [true, "A player must have ranking"],
   },
   name: {
@@ -41,15 +41,15 @@ const playerSchema = new mongoose.Schema({
   },
   mvp: {
     type: [Number],
-    required: true,
+    default: [],
   },
   championship: {
     type: [Number],
-    required: true,
+    default: [],
   },
   all_star_appearances: {
     type: Number,
-    required: true,
+    required: [true, "A player's All Star appearances must be provided"],
   },
   college: {
     type: String,
