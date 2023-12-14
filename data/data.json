@@ -902,7 +902,7 @@
     "draft_year": 2005,
     "nationality": "American",
     "teams_played": [
-      "New Orlean Hornets",
+      "New Orleans Hornets",
       "Los Angeles Clippers",
       "Houston Rockets",
       "Oklahoma City Thunder",
@@ -1352,6 +1352,1008 @@
       "blocks": 1
     },
     "years_played": 10,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 45,
+    "name": "Walt Frazier",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1945-03-29",
+    "draft_year": 1967,
+    "nationality": "American",
+    "teams_played": ["New York Knicks", "Cleveland Cavaliers"],
+    "number": [10, 11],
+    "championship": [1970, 1973],
+    "all_star_appearances": 7,
+    "college": "Southern Illinois",
+    "highschool": "David T. Howard",
+    "scoring_rank": 134,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 44,
+      "rebounds": 16,
+      "assists": 16,
+      "steals": 7,
+      "blocks": 2
+    },
+    "years_played": 12,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 46,
+    "name": "Russell Westbrook",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1988-11-12",
+    "draft_year": 2008,
+    "nationality": "American",
+    "teams_played": [
+      "Oklahoma City Thunder",
+      "Houston Rockets",
+      "Washington Wizards",
+      "Los Angeles Lakers",
+      "Los Angeles Clippers"
+    ],
+    "number": [0, 4],
+    "mvp": [2017],
+    "all_star_appearances": 9,
+    "college": "UCLA",
+    "highschool": "Leuzinger",
+    "scoring_rank": 26,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 58,
+      "rebounds": 21,
+      "assists": 24,
+      "steals": 8,
+      "blocks": 4
+    },
+    "years_played": 13,
+    "retired": false,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 47,
+    "name": "Reggie Miller",
+    "position": {
+      "long": ["Shooting Guard"],
+      "short": ["SG"]
+    },
+    "date_of_birth": "1965-08-24",
+    "draft_year": 1987,
+    "nationality": "American",
+    "teams_played": ["Indiana Pacers"],
+    "number": [31],
+    "all_star_appearances": 5,
+    "college": "UCLA",
+    "highschool": "Riverside Polytechnic",
+    "scoring_rank": 5,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 57,
+      "rebounds": 12,
+      "assists": 11,
+      "steals": 6,
+      "blocks": 3
+    },
+    "years_played": 18,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 48,
+    "name": "Gary Payton",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1968-07-23",
+    "draft_year": 1990,
+    "nationality": "American",
+    "teams_played": [
+      "Seattle Supersonics",
+      "Milwaukee Bucks",
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Miami Heat"
+    ],
+    "number": [2, 20],
+    "championship": [2006],
+    "all_star_appearances": 9,
+    "college": "Oregon State",
+    "highschool": "Skyline",
+    "scoring_rank": 38,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 44,
+      "rebounds": 16,
+      "assists": 18,
+      "steals": 8,
+      "blocks": 3
+    },
+    "years_played": 17,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 49,
+    "name": "Kevin Mchale",
+    "position": {
+      "long": ["Power Forward"],
+      "short": ["PF"]
+    },
+    "date_of_birth": "1957-12-19",
+    "draft_year": 1980,
+    "nationality": "American",
+    "teams_played": ["Boston Celtics"],
+    "number": [32],
+    "championship": [1981, 1984, 1986],
+    "all_star_appearances": 13,
+    "college": "Minnesota",
+    "highschool": "Hibbing",
+    "scoring_rank": 92,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 56,
+      "rebounds": 18,
+      "assists": 10,
+      "steals": 3,
+      "blocks": 9
+    },
+    "years_played": 13,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 50,
+    "name": "Paul Pierce",
+    "position": {
+      "long": ["Small Forward"],
+      "short": ["SF"]
+    },
+    "date_of_birth": "1977-10-13",
+    "draft_year": 1998,
+    "nationality": "American",
+    "teams_played": [
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Washington Wizards",
+      "Los Angeles Clippers"
+    ],
+    "number": [34],
+    "championship": [2008],
+    "all_star_appearances": 10,
+    "college": "Kansas",
+    "highschool": "Inglewood",
+    "scoring_rank": 17,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 50,
+      "rebounds": 19,
+      "assists": 14,
+      "steals": 9,
+      "blocks": 5
+    },
+    "years_played": 19,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 51,
+    "name": "Dominique Wilkins",
+    "position": {
+      "long": ["Small Forward"],
+      "short": ["SF"]
+    },
+    "date_of_birth": "1960-01-12",
+    "draft_year": 1982,
+    "nationality": "American",
+    "teams_played": [
+      "Atlanta Hawks",
+      "Los Angeles Clippers",
+      "Boston Celtics",
+      "San Antonio Spurs",
+      "Orlando Magic"
+    ],
+    "number": [21, 12],
+    "all_star_appearances": 9,
+    "college": "Georgia",
+    "highschool": "Washington",
+    "scoring_rank": 15,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 57,
+      "rebounds": 19,
+      "assists": 10,
+      "steals": 7,
+      "blocks": 6
+    },
+    "years_played": 17,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 52,
+    "name": "Ray Allen",
+    "position": {
+      "long": ["Shooting Guard"],
+      "short": ["SG"]
+    },
+    "date_of_birth": "1975-07-20",
+    "draft_year": 1996,
+    "nationality": "American",
+    "teams_played": [
+      "Milwaukee Bucks",
+      "Seattle Supersonics",
+      "Boston Celtics",
+      "Miami Heat"
+    ],
+    "number": [34, 20],
+    "championship": [2008, 2013],
+    "all_star_appearances": 10,
+    "college": "UConn",
+    "highschool": "Hillcrest",
+    "scoring_rank": 27,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 54,
+      "rebounds": 13,
+      "assists": 13,
+      "steals": 6,
+      "blocks": 2
+    },
+    "years_played": 18,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 53,
+    "name": "Anthony Davis",
+    "position": {
+      "long": ["Power Forward", "Center"],
+      "short": ["PF", "C"]
+    },
+    "date_of_birth": "1993-03-11",
+    "draft_year": 2012,
+    "nationality": "American",
+    "teams_played": [
+      "New Orleans Hornets",
+      "New Orleans Pelicans",
+      "Los Angeles Lakers"
+    ],
+    "number": [23, 3],
+    "championship": [2020],
+    "all_star_appearances": 8,
+    "college": "Kentucky",
+    "highschool": "Perspectives Charter",
+    "scoring_rank": 109,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 59,
+      "rebounds": 26,
+      "assists": 9,
+      "steals": 7,
+      "blocks": 10
+    },
+    "years_played": 10,
+    "retired": false,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 54,
+    "name": "Bob Mcadoo",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1951-09-25",
+    "draft_year": 1972,
+    "nationality": "American",
+    "teams_played": [
+      "Buffalo Braves",
+      "New York Knicks",
+      "Boston Celtics",
+      "Detroit Pistons",
+      "New Jersey Nets",
+      "Los Angeles Lakers",
+      "Philadelphia 76ers"
+    ],
+    "number": [11, 21],
+    "mvp": [1975],
+    "championship": [1982, 1985],
+    "all_star_appearances": 5,
+    "college": "North Carolina",
+    "highschool": "Ben L. Smith",
+    "scoring_rank": 69,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 52,
+      "rebounds": 19,
+      "assists": 10,
+      "steals": 6,
+      "blocks": 9
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 55,
+    "name": "Tracy McGrady",
+    "position": {
+      "long": ["Shooting Guard", "Small Forward"],
+      "short": ["SG", "SF"]
+    },
+    "date_of_birth": "1979-03-24",
+    "draft_year": 1997,
+    "nationality": "American",
+    "teams_played": [
+      "Toronto Raptors",
+      "Orlando Magic",
+      "Houston Rockets",
+      "New York Knicks",
+      "Detroit Pistons",
+      "Atlanta Hawks",
+      "San Antonio Spurs"
+    ],
+    "number": [1, 3],
+    "all_star_appearances": 7,
+    "highschool": "Mount Zion Christian Academy",
+    "scoring_rank": 74,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 62,
+      "rebounds": 17,
+      "assists": 13,
+      "steals": 6,
+      "blocks": 7
+    },
+    "years_played": 16,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 56,
+    "name": "Dwight Howard",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1985-12-08",
+    "draft_year": 2004,
+    "nationality": "American",
+    "teams_played": [
+      "Orlando Magic",
+      "Los Angeles Lakers",
+      "Houston Rockets",
+      "Atlanta Hawks",
+      "Charlotte Hornets",
+      "Washington Wizards",
+      "Philadelphia 76ers"
+    ],
+    "number": [12, 8, 21, 39],
+    "championship": [2020],
+    "all_star_appearances": 8,
+    "highschool": "Southwest Atlanta Christian Academy",
+    "scoring_rank": 56,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 45,
+      "rebounds": 30,
+      "assists": 7,
+      "steals": 5,
+      "blocks": 10
+    },
+    "years_played": 18,
+    "retired": false,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 57,
+    "name": "Dave Cowens",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1948-10-25",
+    "draft_year": 1970,
+    "nationality": "American",
+    "teams_played": ["Boston Celtics", "Milwaukee Bucks"],
+    "number": [18, 36],
+    "mvp": [1973],
+    "championship": [1974, 1976],
+    "all_star_appearances": 8,
+    "college": "Florida State",
+    "highschool": "Newport Catholic",
+    "scoring_rank": 204,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 39,
+      "rebounds": 32,
+      "assists": 11,
+      "steals": 4,
+      "blocks": 6
+    },
+    "years_played": 13,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 58,
+    "name": "Earl Monroe",
+    "position": {
+      "long": ["Shooting Guard", "Point Guard"],
+      "short": ["SG", "PG"]
+    },
+    "date_of_birth": "1944-11-21",
+    "draft_year": 1967,
+    "nationality": "American",
+    "teams_played": ["Baltimore Bullets", "New York Knicks"],
+    "number": [33, 10, 15],
+    "championship": [1973],
+    "all_star_appearances": 4,
+    "college": "Winston-Salem State",
+    "highschool": "John Bartram",
+    "scoring_rank": 90,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 56,
+      "rebounds": 17,
+      "assists": 13,
+      "steals": 5,
+      "blocks": 2
+    },
+    "years_played": 13,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 59,
+    "name": "James Worthy",
+    "position": {
+      "long": ["Small Forward"],
+      "short": ["SF"]
+    },
+    "date_of_birth": "1961-02-27",
+    "draft_year": 1984,
+    "nationality": "American",
+    "teams_played": ["Los Angeles Lakers"],
+    "number": [42],
+    "championship": [1985, 1987, 1988],
+    "all_star_appearances": 7,
+    "college": "North Carolina",
+    "highschool": "Ashbrook",
+    "scoring_rank": 110,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 38,
+      "rebounds": 17,
+      "assists": 14,
+      "steals": 5,
+      "blocks": 5
+    },
+    "years_played": 12,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 60,
+    "name": "Wes Unseld",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1946-03-14",
+    "draft_year": 1968,
+    "nationality": "American",
+    "teams_played": [
+      "Baltimore Bullets",
+      "Capitol Bullets",
+      "Washington Bullets"
+    ],
+    "number": [41],
+    "mvp": [1969],
+    "championship": [1978],
+    "all_star_appearances": 5,
+    "college": "Louisville",
+    "highschool": "Seneca",
+    "scoring_rank": 358,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 30,
+      "rebounds": 32,
+      "assists": 13,
+      "steals": 8,
+      "blocks": 3
+    },
+    "years_played": 13,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 61,
+    "name": "Dolph Schayes",
+    "position": {
+      "long": ["Power Forward"],
+      "short": ["PF"]
+    },
+    "date_of_birth": "1928-05-19",
+    "draft_year": 1948,
+    "nationality": "American",
+    "teams_played": ["Syracuse Nationals", "Philadelphia 76ers"],
+    "number": [55, 4],
+    "championship": [1955],
+    "all_star_appearances": 12,
+    "college": "NYU",
+    "highschool": "DeWitt Clinton",
+    "scoring_rank": 72,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 50,
+      "rebounds": 35,
+      "assists": 13,
+      "steals": 0,
+      "blocks": 0
+    },
+    "years_played": 16,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 62,
+    "name": "Dennis Rodman",
+    "position": {
+      "long": ["Power Forward", "Small Forward"],
+      "short": ["PF", "SF"]
+    },
+    "date_of_birth": "1961-05-13",
+    "draft_year": 1986,
+    "nationality": "American",
+    "teams_played": [
+      "Detroit Pistons",
+      "San Antonio Spurs",
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Dallas Mavericks"
+    ],
+    "number": [10, 91, 70, 73],
+    "championship": [1989, 1990, 1996, 1997, 1998],
+    "all_star_appearances": 2,
+    "college": "North Central Texas",
+    "highschool": "South Oak Cliff",
+    "scoring_rank": 686,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 34,
+      "rebounds": 34,
+      "assists": 10,
+      "steals": 4,
+      "blocks": 5
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 63,
+    "name": "Carmelo Anthony",
+    "position": {
+      "long": ["Small Forward", "Power Forward"],
+      "short": ["SG", "PF"]
+    },
+    "date_of_birth": "1984-05-29",
+    "draft_year": 2003,
+    "nationality": "American",
+    "teams_played": [
+      "Denver Nuggets",
+      "New York Knicks",
+      "Oklahoma City Thunder",
+      "Houston Rockets",
+      "Portland Trail Blazers",
+      "Los Angeles Lakers"
+    ],
+    "number": [15, 7, "00"],
+    "all_star_appearances": 10,
+    "college": "Syracuse",
+    "highschool": "Oak Hill Academy",
+    "scoring_rank": 9,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 62,
+      "rebounds": 22,
+      "assists": 11,
+      "steals": 6,
+      "blocks": 4
+    },
+    "years_played": 19,
+    "retired": true,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 64,
+    "name": "Bill Walton",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1952-11-05",
+    "draft_year": 1974,
+    "nationality": "American",
+    "teams_played": [
+      "Portland Trail Blazers",
+      "Los Angeles Clippers",
+      "Boston Celtics"
+    ],
+    "number": [32, 5],
+    "mvp": [1978],
+    "championship": [1977, 1986],
+    "all_star_appearances": 2,
+    "college": "UCLA",
+    "highschool": "Helix",
+    "scoring_rank": 748,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 36,
+      "rebounds": 26,
+      "assists": 14,
+      "steals": 6,
+      "blocks": 9
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 65,
+    "name": "Chris Webber",
+    "position": {
+      "long": ["Power Forward"],
+      "short": ["PF"]
+    },
+    "date_of_birth": "1973-03-01",
+    "draft_year": 1993,
+    "nationality": "American",
+    "teams_played": [
+      "Golden State Warriors",
+      "Washington Wizards",
+      "Sacramento Kings",
+      "Philadelphia 76ers",
+      "Detroit Pistons"
+    ],
+    "number": [4, 2, 84],
+    "all_star_appearances": 5,
+    "college": "Michigan",
+    "highschool": "Detroit Country Day",
+    "scoring_rank": 98,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 51,
+      "rebounds": 26,
+      "assists": 13,
+      "steals": 8,
+      "blocks": 9
+    },
+    "years_played": 15,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 66,
+    "name": "Billy Cunningham",
+    "position": {
+      "long": ["Small Forward", "Power Forward"],
+      "short": ["SF", "PF"]
+    },
+    "date_of_birth": "1943-06-03",
+    "draft_year": 1965,
+    "nationality": "American",
+    "teams_played": ["Philadelphia 76ers", "Carolina Cougars"],
+    "number": [32],
+    "championship": [1967],
+    "all_star_appearances": 4,
+    "college": "North Carolina",
+    "highschool": "Erasmus Hall",
+    "scoring_rank": 201,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 47,
+      "rebounds": 27,
+      "assists": 13,
+      "steals": 5,
+      "blocks": 2
+    },
+    "years_played": 11,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 67,
+    "name": "Nate Archibald",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1948-09-02",
+    "draft_year": 1970,
+    "nationality": "American",
+    "teams_played": [
+      "Cincinnati Royals",
+      "Kansas City Kings",
+      "New York Nets",
+      "Boston Celtics",
+      "Milwaukee Bucks"
+    ],
+    "number": [10, 1, 7],
+    "championship": [1981],
+    "all_star_appearances": 6,
+    "college": "Arizona Western",
+    "highschool": "DeWitt Clinton",
+    "scoring_rank": 106,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 55,
+      "rebounds": 9,
+      "assists": 23,
+      "steals": 6,
+      "blocks": 3
+    },
+    "years_played": 14,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 68,
+    "name": "Damian Lillard",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1990-07-15",
+    "draft_year": 2012,
+    "nationality": "American",
+    "teams_played": ["Portland Trail Blazers", "Milwaukee Bucks"],
+    "number": [0],
+    "all_star_appearances": 7,
+    "college": "Weber State",
+    "highschool": "Oakland",
+    "scoring_rank": 51,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 71,
+      "rebounds": 18,
+      "assists": 16,
+      "steals": 6,
+      "blocks": 4
+    },
+    "years_played": 10,
+    "retired": false,
+    "is_hall_of_famer": false
+  },
+  {
+    "ranked_at": 69,
+    "name": "Alonzo Mourning",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1970-02-08",
+    "draft_year": 1992,
+    "nationality": "American",
+    "teams_played": ["Charlotte Hornets", "Miami Heat", "New Jersey Nets"],
+    "number": [33],
+    "championship": [2006],
+    "all_star_appearances": 7,
+    "college": "Georgetown",
+    "highschool": "Indian River",
+    "scoring_rank": 176,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 50,
+      "rebounds": 22,
+      "assists": 7,
+      "steals": 4,
+      "blocks": 9
+    },
+    "years_played": 16,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 70,
+    "name": "Hal Greer",
+    "position": {
+      "long": ["Shooting Guard", "Point Guard"],
+      "short": ["SG", "PG"]
+    },
+    "date_of_birth": "1936-06-26",
+    "draft_year": 1958,
+    "nationality": "American",
+    "teams_played": ["Syracuse Nationals", "Philadelphia 76ers"],
+    "number": [15],
+    "championship": [1967],
+    "all_star_appearances": 10,
+    "college": "Marshall",
+    "highschool": "Douglass",
+    "scoring_rank": 40,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 50,
+      "rebounds": 17,
+      "assists": 14,
+      "steals": 0,
+      "blocks": 0
+    },
+    "years_played": 15,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 71,
+    "name": "Alex English",
+    "position": {
+      "long": ["Small Forward"],
+      "short": ["SF"]
+    },
+    "date_of_birth": "1954-01-05",
+    "draft_year": 1976,
+    "nationality": "American",
+    "teams_played": [
+      "Milwaukee Bucks",
+      "Indiana Pacers",
+      "Denver Nuggets",
+      "Dallas Mavericks"
+    ],
+    "number": [23, 22, 2],
+    "all_star_appearances": 8,
+    "college": "South Carolina",
+    "highschool": "Dreher",
+    "scoring_rank": 21,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 54,
+      "rebounds": 20,
+      "assists": 16,
+      "steals": 5,
+      "blocks": 6
+    },
+    "years_played": 15,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 72,
+    "name": "Jerry Lucas",
+    "position": {
+      "long": ["Power Forward"],
+      "short": ["PF"]
+    },
+    "date_of_birth": "1940-03-30",
+    "draft_year": 1962,
+    "nationality": "American",
+    "teams_played": [
+      "Cincinnati Royals",
+      "San Francisco Warriors",
+      "New York Knicks"
+    ],
+    "number": [16, 47, 32],
+    "championship": [1973],
+    "all_star_appearances": 7,
+    "college": "Ohio State",
+    "highschool": "Middletown",
+    "scoring_rank": 183,
+    "rookie_of_the_year": true,
+    "career_highs": {
+      "points": 41,
+      "rebounds": 40,
+      "assists": 12,
+      "steals": 2,
+      "blocks": 1
+    },
+    "years_played": 12,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 73,
+    "name": "Pete Maravich",
+    "position": {
+      "long": ["Shooting Guard"],
+      "short": ["SG"]
+    },
+    "date_of_birth": "1947-06-22",
+    "draft_year": 1970,
+    "nationality": "American",
+    "teams_played": ["Atlanta Hawks", "Utah Jazz", "Boston Celtics"],
+    "number": [44, 7],
+    "all_star_appearances": 5,
+    "college": "LSU",
+    "highschool": "Edwards Military Institute",
+    "scoring_rank": 122,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 68,
+      "rebounds": 15,
+      "assists": 18,
+      "steals": 6,
+      "blocks": 2
+    },
+    "years_played": 10,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 74,
+    "name": "Robert Parish",
+    "position": {
+      "long": ["Center"],
+      "short": ["C"]
+    },
+    "date_of_birth": "1953-08-30",
+    "draft_year": 1976,
+    "nationality": "American",
+    "teams_played": [
+      "Boston Celtics",
+      "Boston Celtics",
+      "Charlotte Hornets",
+      "Chicago Bulls"
+    ],
+    "number": ["00"],
+    "championship": [1981, 1984, 1986, 1997],
+    "all_star_appearances": 9,
+    "college": "Centenary",
+    "highschool": "Woodlawn",
+    "scoring_rank": 30,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 40,
+      "rebounds": 32,
+      "assists": 10,
+      "steals": 6,
+      "blocks": 11
+    },
+    "years_played": 21,
+    "retired": true,
+    "is_hall_of_famer": true
+  },
+  {
+    "ranked_at": 75,
+    "name": "Lenny Wilkens",
+    "position": {
+      "long": ["Point Guard"],
+      "short": ["PG"]
+    },
+    "date_of_birth": "1937-10-28",
+    "draft_year": 1960,
+    "nationality": "American",
+    "teams_played": [
+      "St.Louis Hawks",
+      "Seattle Supersonics",
+      "Cleveland Cavaliers",
+      "Portland Trail Blazers"
+    ],
+    "number": [32, 15, 14, 19, 17],
+    "mvp": [1988, 1991, 1992, 1996, 1998],
+    "championship": [1991, 1992, 1993, 1996, 1997, 1998],
+    "all_star_appearances": 9,
+    "college": "Providence",
+    "highschool": "Boys",
+    "scoring_rank": 82,
+    "rookie_of_the_year": false,
+    "career_highs": {
+      "points": 41,
+      "rebounds": 14,
+      "assists": 20,
+      "steals": 7,
+      "blocks": 4
+    },
+    "years_played": 15,
     "retired": true,
     "is_hall_of_famer": true
   }

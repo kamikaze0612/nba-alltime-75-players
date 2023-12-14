@@ -36,7 +36,7 @@ const playerSchema = new mongoose.Schema({
     required: [true, "A player must have teams they have played in"],
   },
   number: {
-    type: [Number],
+    type: [String],
     required: [true, "A player must have at least one jersey number"],
   },
   mvp: {
