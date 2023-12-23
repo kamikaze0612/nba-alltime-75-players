@@ -7,6 +7,7 @@ const AppError = require("./utils/appError");
 
 const app = express();
 
+/************************ MIDDLEWARES ************************/
 if (process.env.NODE_ENV === "development") {
   app.use(morgan("dev"));
 }
@@ -19,13 +20,15 @@ app.use((req, res, next) => {
   next();
 });
 
+/************************ ROUTES ************************/
 app.use("/api/v1/players", playerRouter);
 
-/* If process reaches this block it means that no route has founded */
+/* If process reaches this block it means that no route has found */
 app.all("*", (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server`, 404));
 });
 
+/* Handling all errors and sending back response */
 app.use(globalErrorHandler);
 
 module.exports = app;

@@ -114,6 +114,11 @@ const playerSchema = new mongoose.Schema({
   },
 });
 
+/******************** INDEXES ********************/
+playerSchema.index({ ranked_at: 1 });
+
+/* QUERY MIDDLEWARES */
+
 const Player = mongoose.model("Player", playerSchema);
 
 module.exports = Player;
